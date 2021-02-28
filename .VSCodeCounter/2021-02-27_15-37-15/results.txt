@@ -1,0 +1,93 @@
+Date : 2021-02-27 15:37:15
+Directory : m:\Codebase\ProjectToShowONCV\Reddit
+Total : 48 files,  19057 codes, 36 comments, 289 blanks, all 19382 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| JSON             |          7 |     17,602 |          6 |          5 |     17,613 |
+| TypeScript       |         22 |        697 |         17 |        177 |        891 |
+| TypeScript React |          9 |        557 |         10 |         78 |        645 |
+| XML              |          3 |         68 |          1 |          1 |         70 |
+| JavaScript       |          3 |         64 |          0 |          4 |         68 |
+| CSS              |          2 |         44 |          2 |          6 |         52 |
+| Markdown         |          2 |         25 |          0 |         18 |         43 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                      | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                         |         48 |     19,057 |         36 |        289 |     19,382 |
+| client                                                                                    |         24 |     11,211 |         16 |        109 |     11,336 |
+| client\public                                                                             |          2 |         56 |          1 |          1 |         58 |
+| client\public\images                                                                      |          1 |         52 |          1 |          1 |         54 |
+| client\src                                                                                |         13 |        633 |         13 |         85 |        731 |
+| client\src\components                                                                     |          3 |        225 |          1 |         20 |        246 |
+| client\src\context                                                                        |          1 |         63 |          1 |         12 |         76 |
+| client\src\pages                                                                          |          5 |        269 |          8 |         46 |        323 |
+| client\src\styles                                                                         |          3 |         56 |          2 |          6 |         64 |
+| client\src\styles\fonts                                                                   |          1 |         12 |          0 |          0 |         12 |
+| src                                                                                       |         19 |        673 |         14 |        175 |        862 |
+| src\entities                                                                              |          6 |        233 |          0 |         60 |        293 |
+| src\middleware                                                                            |          3 |         38 |          0 |         15 |         53 |
+| src\migrations                                                                            |          4 |         84 |          0 |         20 |        104 |
+| src\routes                                                                                |          4 |        252 |         11 |         67 |        330 |
+| src\utils                                                                                 |          1 |         26 |          3 |          4 |         33 |
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                                  | language         | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| m:\Codebase\ProjectToShowONCV\Reddit\README.md                                            | Markdown         |          5 |          0 |          3 |          8 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\README.md                                     | Markdown         |         20 |          0 |         15 |         35 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\next-env.d.ts                                 | TypeScript       |          0 |          2 |          1 |          3 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\next.config.js                                | JavaScript       |         12 |          0 |          2 |         14 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\package-lock.json                             | JSON             |     10,380 |          0 |          1 |     10,381 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\package.json                                  | JSON             |         25 |          0 |          1 |         26 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\postcss.config.js                             | JavaScript       |          6 |          0 |          1 |          7 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\public\images\reddit.svg                      | XML              |         52 |          1 |          1 |         54 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\public\vercel.svg                             | XML              |          4 |          0 |          0 |          4 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\src\components\InputGroup.tsx                 | TypeScript React |         34 |          0 |          4 |         38 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\src\components\Navbar.tsx                     | TypeScript React |         65 |          1 |          7 |         73 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\src\components\PostCard.tsx                   | TypeScript React |        126 |          0 |          9 |        135 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\src\context\auth.tsx                          | TypeScript React |         63 |          1 |         12 |         76 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\src\pages\_app.tsx                            | TypeScript React |         21 |          0 |          8 |         29 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\src\pages\_document.tsx                       | TypeScript React |         37 |          0 |          4 |         41 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\src\pages\index.tsx                           | TypeScript React |         33 |          8 |          9 |         50 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\src\pages\login.tsx                           | TypeScript React |         75 |          0 |         13 |         88 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\src\pages\register.tsx                        | TypeScript React |        103 |          0 |         12 |        115 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\src\styles\fonts\reddit.svg                   | XML              |         12 |          0 |          0 |         12 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\src\styles\icons.css                          | CSS              |         27 |          2 |          4 |         33 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\src\styles\tailwind.css                       | CSS              |         17 |          0 |          2 |         19 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\src\types.ts                                  | TypeScript       |         20 |          1 |          1 |         22 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\svg.d.ts                                      | TypeScript       |          4 |          0 |          0 |          4 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\tailwind.config.js                            | JavaScript       |         46 |          0 |          1 |         47 |
+| m:\Codebase\ProjectToShowONCV\Reddit\client\tsconfig.json                                 | JSON             |         29 |          0 |          1 |         30 |
+| m:\Codebase\ProjectToShowONCV\Reddit\ormconfig.json                                       | JSON             |         24 |          0 |          0 |         24 |
+| m:\Codebase\ProjectToShowONCV\Reddit\package-lock.json                                    | JSON             |      7,082 |          0 |          1 |      7,083 |
+| m:\Codebase\ProjectToShowONCV\Reddit\package.json                                         | JSON             |         38 |          0 |          1 |         39 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\entities\Comment.ts                              | TypeScript       |         46 |          0 |         11 |         57 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\entities\Entity.ts                               | TypeScript       |         19 |          0 |          4 |         23 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\entities\Post.ts                                 | TypeScript       |         68 |          0 |         17 |         85 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\entities\Sub.ts                                  | TypeScript       |         34 |          0 |          9 |         43 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\entities\User.ts                                 | TypeScript       |         41 |          0 |         11 |         52 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\entities\Vote.ts                                 | TypeScript       |         25 |          0 |          8 |         33 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\middleware\auth.ts                               | TypeScript       |         12 |          0 |          4 |         16 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\middleware\trim.ts                               | TypeScript       |         10 |          0 |          5 |         15 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\middleware\user.ts                               | TypeScript       |         16 |          0 |          6 |         22 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\migrations\1614246170306-create-users-table.ts   | TypeScript       |         30 |          0 |          5 |         35 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\migrations\1614326673693-create-table-users.ts   | TypeScript       |         14 |          0 |          5 |         19 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\migrations\1614328234338-create-comment-table.ts | TypeScript       |         16 |          0 |          5 |         21 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\migrations\1614413464753-create-votes-table.ts   | TypeScript       |         24 |          0 |          5 |         29 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\routes\auth.ts                                   | TypeScript       |         91 |          3 |         25 |        119 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\routes\misc.ts                                   | TypeScript       |         51 |          7 |         10 |         68 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\routes\post.ts                                   | TypeScript       |         73 |          1 |         20 |         94 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\routes\subs.ts                                   | TypeScript       |         37 |          0 |         12 |         49 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\server.ts                                        | TypeScript       |         40 |          0 |          9 |         49 |
+| m:\Codebase\ProjectToShowONCV\Reddit\src\utils\helpers.ts                                 | TypeScript       |         26 |          3 |          4 |         33 |
+| m:\Codebase\ProjectToShowONCV\Reddit\tsconfig.json                                        | JSON             |         24 |          6 |          0 |         30 |
+| Total                                                                                     |                  |     19,057 |         36 |        289 |     19,382 |
++-------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+

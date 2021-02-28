@@ -1,0 +1,52 @@
+"filename", "language", "JSON", "TypeScript", "Markdown", "JavaScript", "CSS", "XML", "TypeScript React", "comment", "blank", "total"
+"m:\Codebase\ProjectToShowONCV\Reddit\README.md", "Markdown", 0, 0, 5, 0, 0, 0, 0, 0, 3, 8
+"m:\Codebase\ProjectToShowONCV\Reddit\client\README.md", "Markdown", 0, 0, 20, 0, 0, 0, 0, 0, 15, 35
+"m:\Codebase\ProjectToShowONCV\Reddit\client\next-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 2, 1, 3
+"m:\Codebase\ProjectToShowONCV\Reddit\client\next.config.js", "JavaScript", 0, 0, 0, 15, 0, 0, 0, 0, 2, 17
+"m:\Codebase\ProjectToShowONCV\Reddit\client\package-lock.json", "JSON", 10413, 0, 0, 0, 0, 0, 0, 0, 1, 10414
+"m:\Codebase\ProjectToShowONCV\Reddit\client\package.json", "JSON", 26, 0, 0, 0, 0, 0, 0, 0, 1, 27
+"m:\Codebase\ProjectToShowONCV\Reddit\client\postcss.config.js", "JavaScript", 0, 0, 0, 6, 0, 0, 0, 0, 1, 7
+"m:\Codebase\ProjectToShowONCV\Reddit\client\public\images\reddit.svg", "XML", 0, 0, 0, 0, 0, 52, 0, 1, 1, 54
+"m:\Codebase\ProjectToShowONCV\Reddit\client\public\vercel.svg", "XML", 0, 0, 0, 0, 0, 4, 0, 0, 0, 4
+"m:\Codebase\ProjectToShowONCV\Reddit\client\src\components\InputGroup.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 34, 0, 4, 38
+"m:\Codebase\ProjectToShowONCV\Reddit\client\src\components\Navbar.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 65, 1, 7, 73
+"m:\Codebase\ProjectToShowONCV\Reddit\client\src\components\PostCard.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 125, 0, 9, 134
+"m:\Codebase\ProjectToShowONCV\Reddit\client\src\context\auth.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 63, 1, 12, 76
+"m:\Codebase\ProjectToShowONCV\Reddit\client\src\pages\_app.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 39, 0, 9, 48
+"m:\Codebase\ProjectToShowONCV\Reddit\client\src\pages\_document.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 37, 0, 4, 41
+"m:\Codebase\ProjectToShowONCV\Reddit\client\src\pages\index.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 26, 8, 7, 41
+"m:\Codebase\ProjectToShowONCV\Reddit\client\src\pages\login.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 75, 0, 13, 88
+"m:\Codebase\ProjectToShowONCV\Reddit\client\src\pages\r\[sub].tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 124, 3, 15, 142
+"m:\Codebase\ProjectToShowONCV\Reddit\client\src\pages\register.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 103, 0, 12, 115
+"m:\Codebase\ProjectToShowONCV\Reddit\client\src\styles\fonts\reddit.svg", "XML", 0, 0, 0, 0, 0, 12, 0, 0, 0, 12
+"m:\Codebase\ProjectToShowONCV\Reddit\client\src\styles\icons.css", "CSS", 0, 0, 0, 0, 27, 0, 0, 2, 4, 33
+"m:\Codebase\ProjectToShowONCV\Reddit\client\src\styles\tailwind.css", "CSS", 0, 0, 0, 0, 17, 0, 0, 0, 2, 19
+"m:\Codebase\ProjectToShowONCV\Reddit\client\src\types.ts", "TypeScript", 0, 33, 0, 0, 0, 0, 0, 2, 2, 37
+"m:\Codebase\ProjectToShowONCV\Reddit\client\svg.d.ts", "TypeScript", 0, 4, 0, 0, 0, 0, 0, 0, 0, 4
+"m:\Codebase\ProjectToShowONCV\Reddit\client\tailwind.config.js", "JavaScript", 0, 0, 0, 46, 0, 0, 0, 0, 1, 47
+"m:\Codebase\ProjectToShowONCV\Reddit\client\tsconfig.json", "JSON", 29, 0, 0, 0, 0, 0, 0, 0, 1, 30
+"m:\Codebase\ProjectToShowONCV\Reddit\ormconfig.json", "JSON", 25, 0, 0, 0, 0, 0, 0, 0, 0, 25
+"m:\Codebase\ProjectToShowONCV\Reddit\package-lock.json", "JSON", 8432, 0, 0, 0, 0, 0, 0, 0, 1, 8433
+"m:\Codebase\ProjectToShowONCV\Reddit\package.json", "JSON", 45, 0, 0, 0, 0, 0, 0, 0, 1, 46
+"m:\Codebase\ProjectToShowONCV\Reddit\src\entities\Comment.ts", "TypeScript", 0, 46, 0, 0, 0, 0, 0, 0, 11, 57
+"m:\Codebase\ProjectToShowONCV\Reddit\src\entities\Entity.ts", "TypeScript", 0, 19, 0, 0, 0, 0, 0, 0, 4, 23
+"m:\Codebase\ProjectToShowONCV\Reddit\src\entities\Post.ts", "TypeScript", 0, 68, 0, 0, 0, 0, 0, 0, 17, 85
+"m:\Codebase\ProjectToShowONCV\Reddit\src\entities\Sub.ts", "TypeScript", 0, 49, 0, 0, 0, 0, 0, 0, 12, 61
+"m:\Codebase\ProjectToShowONCV\Reddit\src\entities\User.ts", "TypeScript", 0, 41, 0, 0, 0, 0, 0, 0, 11, 52
+"m:\Codebase\ProjectToShowONCV\Reddit\src\entities\Vote.ts", "TypeScript", 0, 25, 0, 0, 0, 0, 0, 0, 8, 33
+"m:\Codebase\ProjectToShowONCV\Reddit\src\middleware\auth.ts", "TypeScript", 0, 12, 0, 0, 0, 0, 0, 0, 4, 16
+"m:\Codebase\ProjectToShowONCV\Reddit\src\middleware\trim.ts", "TypeScript", 0, 10, 0, 0, 0, 0, 0, 0, 5, 15
+"m:\Codebase\ProjectToShowONCV\Reddit\src\middleware\user.ts", "TypeScript", 0, 16, 0, 0, 0, 0, 0, 0, 6, 22
+"m:\Codebase\ProjectToShowONCV\Reddit\src\migrations\1614246170306-create-users-table.ts", "TypeScript", 0, 30, 0, 0, 0, 0, 0, 0, 5, 35
+"m:\Codebase\ProjectToShowONCV\Reddit\src\migrations\1614326673693-create-table-users.ts", "TypeScript", 0, 14, 0, 0, 0, 0, 0, 0, 5, 19
+"m:\Codebase\ProjectToShowONCV\Reddit\src\migrations\1614328234338-create-comment-table.ts", "TypeScript", 0, 16, 0, 0, 0, 0, 0, 0, 5, 21
+"m:\Codebase\ProjectToShowONCV\Reddit\src\migrations\1614413464753-create-votes-table.ts", "TypeScript", 0, 24, 0, 0, 0, 0, 0, 0, 5, 29
+"m:\Codebase\ProjectToShowONCV\Reddit\src\routes\auth.ts", "TypeScript", 0, 91, 0, 0, 0, 0, 0, 3, 25, 119
+"m:\Codebase\ProjectToShowONCV\Reddit\src\routes\misc.ts", "TypeScript", 0, 51, 0, 0, 0, 0, 0, 7, 10, 68
+"m:\Codebase\ProjectToShowONCV\Reddit\src\routes\post.ts", "TypeScript", 0, 73, 0, 0, 0, 0, 0, 1, 20, 94
+"m:\Codebase\ProjectToShowONCV\Reddit\src\routes\subs.ts", "TypeScript", 0, 126, 0, 0, 0, 0, 0, 0, 27, 153
+"m:\Codebase\ProjectToShowONCV\Reddit\src\seeds\createFakeData.ts", "TypeScript", 0, 370, 0, 0, 0, 0, 0, 22, 14, 406
+"m:\Codebase\ProjectToShowONCV\Reddit\src\server.ts", "TypeScript", 0, 41, 0, 0, 0, 0, 0, 0, 9, 50
+"m:\Codebase\ProjectToShowONCV\Reddit\src\utils\helpers.ts", "TypeScript", 0, 26, 0, 0, 0, 0, 0, 3, 4, 33
+"m:\Codebase\ProjectToShowONCV\Reddit\tsconfig.json", "JSON", 24, 0, 0, 0, 0, 0, 0, 6, 0, 30
+"Total", "-", 18994, 1185, 25, 67, 44, 68, 691, 62, 336, 21472
