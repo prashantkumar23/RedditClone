@@ -6,4 +6,4 @@ tmp/
 temp/
 /**/*.env
 notes.md
-.VSCodeCounter
+VSCodeCounter

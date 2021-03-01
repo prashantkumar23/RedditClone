@@ -8,17 +8,10 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Rebuild server
+      - name: Rebuild Server
         uses: garygrossgarten/github-action-ssh@release
         with:
-          command: |
-            cd RedditClone
-            git pull
-            npm install
-            npx tsc
-            cd client
-            npm run build
-            pm2 restart server client
+          command: ls -a
           host: ${{ secrets.HOST }}
-          username: ${{ secrets.USERNAME }}
+          username: ${{secrets.USERNAME}}
           privateKey: ${{ secrets.PRIVATE_KEY}}
